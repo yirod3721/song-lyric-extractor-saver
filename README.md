@@ -1,8 +1,4 @@
 # song-lyric-extractor-saver
-Got it—that actually makes the UX simpler. Here’s an updated README that matches your program more closely:
-
-
----
 
 🎵 Lyrics Fetcher (.lrc Generator)
 
